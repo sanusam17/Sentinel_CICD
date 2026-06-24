@@ -1,6 +1,7 @@
 FileName, CommitSha
-Log4j vulnerability exploit.json,91917d9c313c783a8a6d202b9176fffabd28c98f
-User agent search for log4j exploitation attempt.json,f919b0ab7db2b52a01c2f3f3aa848530d2bf63cb
-MicrosoftSentinel-ChatGPT-Playbook.json,2b62894542645efda1ae34085fcf6bd655cdec04
-Azure Diagnostic settings removed from a resource.json,c7accd2d5e54b8c03aff6307f635b88463bb068f
+Hunting Queries/BlackCatRansowmare.json,491b9c8e181d1c00e3cce3bc85456f54217c39b9
+Analytical Rules/Azure Diagnostic settings removed from a resource.json,c7accd2d5e54b8c03aff6307f635b88463bb068f
+Analytical Rules/User agent search for log4j exploitation attempt.json,f919b0ab7db2b52a01c2f3f3aa848530d2bf63cb
+Playbook/User agent search for log4j exploitation attempt.json,f919b0ab7db2b52a01c2f3f3aa848530d2bf63cb
+Analytical Rules/Log4j vulnerability exploit.json,91917d9c313c783a8a6d202b9176fffabd28c98f
 
